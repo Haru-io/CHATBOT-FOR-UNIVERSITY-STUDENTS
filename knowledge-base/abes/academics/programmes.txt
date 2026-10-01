@@ -1,0 +1,8 @@
+TITLE: ABES Academic Programmes
+SOURCE: https://www.abes.ac.in/
+
+The official website lists programmes including:
+B.Tech: Computer Science & Engineering; CSE (Artificial Intelligence and Machine Learning); CSE (Data Science); Electronics & Communication Engineering; Electrical and Computer Engineering; Mechanical Engineering.
+It also lists working-professional engineering programmes, MCA and M.Tech programmes.
+
+Use the latest official course/admission page for current seats and admission details.

@@ -1,0 +1,1 @@
+Close the three development PowerShell windows to stop the prototype services.

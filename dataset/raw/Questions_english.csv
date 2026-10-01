@@ -1,0 +1,428 @@
+Text, AID
+"The teacher should have uploaded materials in the class I am taking, but I cannot find any materials on the course.",A001
+"I put the material on my page but students cannot see it.",A001
+"How can I prevent the students from seeing any materials on "documents" stored for the subjects of the previous semester?",A001
+"I cannot find the uploaded material.",A001
+"I cannot see the teacher's materials.",A001
+"If "notification" and "documents" are made available only to the group selected at the time of creation and "notify by e-mail" is made, will email be notified only to that group? ",A002
+"I uploaded documents to a folder that I set as non-display, but when I upload files with the "notify" setting, the folders and files will be emailed to students.",A002
+"When creating a notification that can only be viewed by a specific group of students, does an email notification only reach the group's students?",A002
+"I want to notify students when I upload the document file.",A002
+"What is the function of notifying students about file uploads?",A002
+"Can the teacher set the notification function?",A002
+"Can only some students be notified about uploaded materials?",A002
+"Is the document disclosure setting and notification function not linked?",A002
+"Can only the specified student group be informed of the publication of materials?",A002
+"Can I set a password for documents?",A003
+"Does kibaco have encryption capabilities?",A003
+"I want to set the file to open with password authentication.",A003
+"Can I upload encrypted files?",A003
+"Can I upload files with password settings?",A003
+"I want to share the material with all students on kibaco.",A004
+"I want to distribute class materials",A004
+"I want to pass files to students",A004
+"I would like to disclose class slides to students on kibaco.",A004
+"Can we disclose lesson materials to students?",A004
+"I would like to distribute materials with kibaco prior to the application period, but what should I do?",A005
+"Can students download lesson materials before applying for courses?",A005
+"When will students be able to view class content in kibaco?",A005
+"Can I distribute materials to students who have not taken this?",A005
+"Can the course be distributed if the teacher registers the student during the class entry period?",A005
+"I want to know how to download document files at once.",A006
+"I want to download all the files at once.",A006
+"It is troublesome to download one file each time.",A006
+"I want to download multiple files at once.",A006
+"I want to download many files at once.",A006
+"When I open the SJIS text file I put in the document, it is garbled",A007
+"The file is garbled and can not be read.",A007
+"Where should we use the character code for files placed in kibaco?",A007
+"What is the character code specified by kibaco?",A007
+"Which character code should I upload the file for?",A007
+"I want to let someone upload the file.",A008
+"I want other staff to upload files.",A008
+"Does class support students have the upload permission?",A008
+"I want TA to upload files to the course's resources. ",A008
+"Who can upload files?",A008
+"I want to give upload authority to non-teachers",A008
+"I do not know how to upload a file to the" document "on the class page. ",A009
+"Can I upload multiple files at once?",A009
+"Where can I upload materials?",A009
+"Can I upload files to kibaco?",A009
+"Tell me how to upload.",A009
+"Can some students set resubmission settings?",A010
+"I would like to resubmit only the student who submitted the poor task.",A010
+"I would like to have students who submit incomplete assignments resubmit.",A010
+"Can I resubmit the assignment after the final acceptance date?",A010
+"I have set the resubmission settings for specific students, but they will not be reflected in the overall final acceptance date. Can students resubmit in this state?",A010
+"After the deadline, it seems that the resubmission is not possible, but can I do it?",A010
+"Can I modify the submission deadline after the final acceptance date?",A011
+"I want to be able to submit again the assignments that have been published in the past.",A011
+"Can I edit the submission deadline and reset it for submission?",A011
+"I would like to change the deadline so that students can submit the task once again",A011
+"Can I change the deadline after the deadline?",A011
+"I created an assignment but I was contacted by students as they could not see it.",A012
+"A test published by the teacher is not displayed.",A012
+"I can't see the assignment",A012
+"The assignment is not displayed.",A012
+"There are no assignments that should have been created",A012
+"Files submitted in the past will be updated.",A013
+"When a student resubmits an assignment, is it overwritten if the file name is the same?",A013
+"I want to keep the previously submitted file.",A013
+"Can I save a file with the same name without overwriting it?",A013
+"Can I save the submitted file as an alias?",A013
+"I would like to copy the assignments created in other courses.",A014
+"I want to copy files from other courses",A014
+"I want to copy files from other classes",A014
+"Can I copy the same task to another class?",A014
+"Can I copy all assignments to another course?",A014
+"I want to copy assignments from other courses.",A014
+"Can I duplicate the created assignments?",A015
+"I want to duplicate the assignments",A015
+"I want to copy the same assignment again," A015
+"Can I copy the assignments?",A015
+"Can I duplicate the same assignment?",A015
+"I would like to have the staff collect the submissions of the assignment but there is no authority other than TA?",A016
+"I want TA to download the issue.",A016
+"I want to leave the download of submissions to TA.",A016
+"I want the staff to download the submissions",A016
+"Can a non-teacher download the task file?",A016
+"When I download a folder, I want to delete the internal folder so that I can see all the files in a list.",A017
+"Can I get rid of the structure when I download a nested folder?",A017
+"Can hierarchical folder structure not be flat?",A017
+"There is no folder, I want to export only files.",A017
+"I would like to eliminate the hierarchical structure when downloading each folder.",A017
+"I would like to receive an email notification when the deadline for the assignment is approaching.",A018
+"I want to notify students before the deadline",A018
+"Can I set reminder?",A018
+"I want to notify students before the deadline.",A018
+"I would like to send a reminder of the assignment.",A018
+"Are there settings to notify students before the deadline?",A018
+"No notification about the assignment has arrived.",A019
+"I would like to send a notification email to myself (teacher)," A019
+"Can I notify that I changed the content of the assignment?",A019
+"I would like to inform students the change in assignment",A019
+"I want to be notified of the addition of an assignment",A019
+"I cannot submit an assignment even after the assignment deadline has been adjusted.",A020
+"The deadline for the assignment is not working",A020
+"The submission was completed even after the date and time of the assignment.",A020
+"Can't submit assignment",A020
+"Can I submit delayed submissions more than once?",A020
+"Please let me know how to get the grade list of the assignment.",A021
+"Evaluated grades for the task are not reflected in the gradebook.",A021
+"I want to know the submission status of the assignment.",A021
+"I want to reflect my students’ grades",A021
+"When will the grade results be reflected in the gradebook?",A021
+"I cannot see the assignments submitted by the students.",A022
+"Can't you score the question before the deadline?",A022
+"Can student's submissions to assignments not be batch downloaded until the deadline date?",A022
+"I created an assignment that imposed text description and file attachment, but I cannot confirm the text content written by the student.",A022
+"I cannot grade the assignment.",A022
+"A user who said they have taken a test is not ready to check the results.",A023
+"I cannot see the results of the students who have taken the test.",A023
+"There are no test results for students",A023
+"I would like to view saved tests.",A023
+"Is it possible to submit my results even with the Save button?",A023
+"We received an inquiry from the user who registered for the subject, "I can not answer the test." ",A024
+"Students cannot take the test",A024
+"Students cannot take a test",A024
+"Can't TA get a test?",A024
+"The registered student is unable to answer the test.",A024
+"I want to check the behavior of the test without being seen by students.",A025
+"I want to check the test I created",A025
+"I want to check the behavior without releasing the test",A025
+"I want to know how to check the test without showing it to the students.",A025
+"I want to check the pre-publication test",A025
+"I made the students answer the test they created, but they are in a state where they cannot distinguish the students on the screen that confirms the test response.",A026
+"Can we make test respondents anonymous",A026
+"I cannot confirm which student answered",A026
+"Can I set test participant information anonymously?",A026
+"Can we create an anonymous survey?",A026
+"The questionnaire was conducted but the submitter's name is not displayed, instead the submission ID is displayed.",A026
+"I created a Test/Questionnaire, but in the specific test, the student who responded is displayed as a submission ID and can not identify the individual.",A026
+"The survey results were anonymous",A026
+"I want TA to be able to enter questions to a questionnaire.",A027
+"Can staff enter test questions?",A027
+"I want TA to enter a problem",A027
+"Can TA or staff enter a problem?",A027
+"I want to let people without teacher's authority enter a problem.",A027
+"I would like to use the problem that TA considered to the test.",A027
+"I want to limit the answer to half-width characters in the settings for the test questions.",A028
+"I want to limit the input characters when I answer the test.",A028
+"Can I only enter full-width characters?",A028
+"Can kibaco impose restrictions on input characters?",A028
+"Are there any ways to limit input characters?",A028
+"I want to keep track of the assignment I created",A029
+"Can't automatically create a test from an already created problem?",A029
+"I want to automate test creation",A029
+"I want to make tests systematically",A029
+"Can't we accumulate test problems and output them randomly?",A029
+"I created a test in the form of questions from the question pool, but the correct answer set in the question pool is different from the correct answer on the published test.",A030
+"Are problems in the problem pool fixed but are automatically reflected in the test I already created?",A030
+"Problem pool and test are not linked",A030
+"Problem pool fix not reflected in test",A030
+"Test has not been modified",A030
+"I would like to create a test using the questions entered by the staff.",A031
+"The teacher shares the problem pool entered by the TA, but it seems that the teacher cannot share it with others. Should I copy the problem pool once?",A 031
+"The TA entered a problem in a subpool of the problem pool but cannot see the subpool from the teacher.",A031
+"The TA cannot add a subpool to the problem pool shared by the TA with the teacher.",A 031
+"I would like to share the problem pool with other teachers.",A031
+"The number of submissions has been set to unlimited in "Test/Questionnaire," but how many delayed submissions can be made? ",A032
+"Can I submit a late questionnaire only once?",A032
+"How many times can I submit a questionnaire late?",A032
+"Can I upload only one questionnaire once after the deadline?",A032
+"Can I answer a questionnaire I forgot to submit?",A032
+"The "delay tag" when the test is submitted late is not visible in the exported file. ",A033
+"I do not know if students delayed when I downloaded the test results.",A033
+"Can I mark and download the results of the delayed test?",A033
+"I want to keep the delay status in the exported test result file.",A033
+"Can I record the delay status in the exported file?",A033
+"My browser fell along the way, can I resume the survey?",A034
+"Is it okay if I interrupt the questionnaire once?",A034
+"I want to save the answer result",A034
+"I would like to record the answer once",A034
+"Does a questionnaire once interrupted have to be entered from the beginning?",A034
+"If the input is interrupted for the questionnaire published as "the person to whom the response URL was sent", can it be resumed?",A035
+"Can I enter a continuation even if I interrupt the survey published as "the person to whom the response URL was sent? ",A035
+"If I know the URL, and I can answer the questionnaire, can I resume when the session is disconnected?",A035
+"I interrupted the survey but I can't resume it.",A035
+"The questionnaire in the answer has disappeared.",A035
+"When exporting questionnaire responses, numerical responses are treated as strings in the file. I want to limit the numbers.",A036
+"When exporting questionnaire responses, some of the responses show "-br-- ". ",A036
+"Can you convert the characters in questionnaires to other types with kibaco?",A036
+"Can HTML tags be used in questionnaire?",A036
+"Is the number in the questionnaire only a string",A036
+"Is it possible to correct the questions on the published Test/Questionnaire?",A037
+"Can I fix the text of question in the questionnaire published to students?",A037
+"I can't fix the question of the questionnaire",A037
+"I would like to know how to modify the published questionnaire.",A037
+"Can I fix the problems of published questionnaires?",A037
+"I exported the test results but I cannot find any questions for the answers.",A038
+"Why are there multiple answers for the same student when exporting test results?",A038
+"I do not see the question in its result exported as a file.",A038
+"The same student answers more than once in the same questionnaire.",A038
+"Exported Excel file includes only answers, and there are many answers from the same student.",A038
+"Can students modify their answers in Test/Questionnaire?",A039
+"For questionnaires that have been published as "persons to whom the URL for the response was sent", can the content already answered be corrected later? ",A039
+"Can I correct the results other than resubmitting the questionnaire?",A039
+"I would like to change the questionnaire I answered",A039
+"I want to fix this because I accidentally closed the browser while answering the questionnaire.",A039
+"I want to check the display screen from the student when I set the resubmission setting.",A040
+"Can I view files to be disclosed in student mode?",A040
+"I want to check the settings of materials from the student's point of view.",A040
+"Is there a browsing function in student mode?",A040
+"I want to check what the students look like.",A040
+"I would like to take over the tests and materials in next year's class.",A041
+"Can I use the contents of the test or questionnaire next year?",A041
+"Can class content be used in next year's class?",A041
+"I want to share the contents of the subject with the teacher who will take over the class in the next fiscal year.",A041
+"I would like to use materials etc. even if the year changes.",A041
+"I would like to use the seminar course next year.",A042
+"I would like to continue using the courses I have created in this year and beyond in the next year.",A042
+"I want to use the course across the year.",A042
+"I want to use the same course next year.",A042
+"I would like to take over the same file in next year's class.",A042
+"The file submitted for the assignment (Word file) became a blank state.",A043
+"When I tried to upload a file to the "document" an empty file was uploaded. ",A043
+"Contents disappear when uploading files on Edge",A043
+"File disappears with Microsoft Edge",A043
+"I am using an old MacOS, but it appears that files of small size exceed 150 MB and I cannot upload it.",A043
+"When I try to upload the document, it is displayed that the capacity is over 150 MB and I cannot upload. The file size does not exceed 150 MB. Operating environment: MacOS 10.6",A043
+"I uploaded four PDF files using my Mac laptop and safari, but I get an error and I can't find any materials I could upload.",A043
+"Can I upload using a browser other than the recommended environment?",A043
+"When submitting an assignment, is there a limit to the file size?",A044
+"When I try to upload a document, a warning is displayed and I cannot upload it.",A044
+"Is there an upper limit on the amount of files that can be uploaded?",A044
+"If the file submitted by the student is an empty file, is it displayed as a 0 KB file on the student confirmation screen?",A044
+"We are planning to create an assignment and have 60 students submit files of about several MB during class, but is there a limit on the size of the submitted files?",A044
+"How much file space can I upload to the course?",A044
+"Can I upload video files as materials?",A045
+"I tried uploading the SCORM teaching material file, which is one of the standards for the e-learning system, but it was displayed as "manifest.xml file not found",And uploading failed. ",A045
+"What file types can I upload?",A045
+"Can I also upload image files?",A045
+"I want to know the file format I can upload.",A045
+"Not registered on kibaco.",A046
+"I'm in charge of the class but I'm not registered to the class.",A046
+"I would like to register myself in the class",A046
+"Account not created.",A046
+"Not associated with the class in charge",A046
+"The main teacher was a part-time instructor and was not registered for the course.",A047
+"I would like staff to be registered as teachers in the course.",A047
+"How can a teacher use kibaco?",A047
+"I want to add teachers to my class at kibaco.",A047
+"I have an information system ID for education and research, but kibaco is not available.",A047
+"I have an information system ID for education and research, but I cannot log in to kibaco.",A047
+"Is it necessary to apply to use kibaco?",A047
+"Can I apply for the right to use kibaco with the information system ID for education and research?",A047
+"How to apply for a part-time teacher to a course subject.",A048
+"I will be in charge of classes as part-time lecturers from this year, but I would like to use kibaco. How should I proceed?",A048
+"I have had a part-time teacher register for this year's class course, but do I have to apply for the same one in the next fiscal year?",A048
+"Can part-time teachers also use kibaco?",A048
+"I am currently work for TMU as a part-time lecturer, but do I have to apply right to use kibaco for the next year?",A048
+"Because my teaching staff has been replaced, I would like you to unregister the predecessor from kibaco.",A049
+"The subjects I am not in charge are shown on the schedule, so please delete them.",A049
+"I'm no longer in charge of class, so I want to unregister.",A049
+"I want to know how to proceed because I'm out of my charge.",A049
+"What information do I need to contact a class manager for deregistration?",A049
+"Can special course students make use of kibaco?",A050
+"Who can use kibaco?",A050
+"How should we do if research students want to use kibaco?",A050
+"How do I register for a short stay international student?",A050
+"Not a regular student but can he/she use kibaco?",A050
+"There is no class",A051
+"One student logged in to kibaco, but the registered course does not appear on the tab.",A051
+"The class tab is not displayed in the account of the student taking it.",A051
+"Students who have registered for the class say that there is no tab for the class.",A051
+"Are there any settings to display class tabs?",A051
+"Student informed me that the class tab could not be found.",A051
+"The subject has not been registered in kibaco and it will not be displayed on timetable.",A051
+"I logged in to kibaco but the subjects are not displayed.",A051
+"Classes I have registered are not displayed on kibaco.",A051
+"I cannot see the classes I have taken on kibaco.",A051
+"The teacher told me to look at the kibaco course materials, but there is no course when I log in to kibaco.",A051
+"The registered student has been tentatively registered, is there any difference from this registration?",A052
+"A research student has not been registered for the course.",A052
+"Several students are not connected to class.",A052
+"Do graduate students need to apply for additional rights to use kibaco?",A052
+"I would like to add students to the class at kibaco.",A052
+"A user whose user information has not been set is registered.",A052
+"Materials are not uploaded because TA is not registered for the course.",A052
+"When will the results of the class registering application be reflected in kibaco?",A053
+"Students who registered for the course are not registered for the kibaco course.",A053
+"No students have been registered for the subject in charge. When will the students who are taking classes be registered?",A053
+"When will students be enrolled in kibaco?",A053
+"When can I confirm if I have registered for a course?",A053
+"Are students who have been provisionally enrolled in the kibaco course will not be erased as provisionally registered even after the course application period is over?",A054
+"I cannot cancel classes I do not register on kibaco.",A054
+"Can the teacher delete a student who has been temporarily registered?",A054
+"I am tentatively registered student but I want to withdraw.",A054
+"I would like to cancel the course without registering it",A054
+"The student tried to self-register for the subject but could not self-register for some subjects.",A055
+"Can't find course from self-registration screen",A055
+"I cannot register myself",A055
+"A research student cannot self-register in a subject.",A055
+"I want students to have access to kibaco subjects before completing the course registration.",A055
+"I would like to cancel the registration from the subject I self-registered.",A056
+"Students who were allowed to self-register but who did not register for the course are still provisionally registered. Are there any problems with deleting students?",A056
+"I registered for a certain class with kibaco and then registered for the class at Campus Square. Despite having canceled registration for the class at a later date, the binding on kibaco has not been released. It can not be canceled. ",A056
+"I would like to cancel my registration, so I want to cancel my registration.",A056
+"I would like to know how to cancel the registration of secondary courses",A056
+"Are there any ways for teachers in charge of course consolidation?",A057
+"Please tell me how to apply for intensive subjects",A057
+"I would like to put together classes at the same time with kibaco (I want to consolidate the subjects)",A057
+"After subject consolidation, will the test created in the main subject be copied to the secondary subject?",A057
+"I want to combine multiple tabs into one.",A057
+"I would like to cancel the consolidation of subjects.",A058
+"Please restore aggregated lessons",A058
+"Please remove private classes",A058
+"Please cancel the subject consolidation",A058
+"Please cancel intensive courses",A058
+"If I consolidate my subjects, it becomes private.",A059
+"The subject in charge is "private class". ",A059
+"There is a thing called "private class" in the same class name. ",A059
+"The aggregated lessons are still displayed.",A059
+"I do not know if it is a secondary subject",A059
+"If I look at the schedule, there are two classes on the same day and time," A060
+"The same course is displayed twice in the kibaco timetable.",A060
+"When I registered as a teacher for a class course, there were two classes on the same day and the same time period.",A060
+"Multiple classes are displayed on the exact same date and time.",A060
+"There are multiple classes displayed on the same day of the week, what should I do?",A060
+"If students use the self-registration function in a course with intensive courses, is it necessary to enable the self-registration function in addition to the main subject?",A061
+"Are students not accidentally referring to secondary subjects?",A061
+"When enrolling in a self-registered course for a consolidated course, is it possible for students to accidentally register for or access a secondary course?",A061
+"What happens if the students are self-registering in the secondary subjects when the subjects are aggregated?",A061
+"Can students see the contents of the secondary subjects?",A061
+"I do not know the ID and password.",A062
+"I forgot my kibaco login password, so I want to reissue my password.",A062
+"I am a student of Arakawa Campus, but I want to use kibako though I forgot my user ID and password.",A062
+"I want to reset my login password",A062
+"I am a student at Hino Campus, but I want to use kibako though I forgot my user ID and password.",A062
+"I cannot use kibaco",A062
+"I want to check student attendance by using kibaco during class.",A063
+"I want to get attendance information automatically",A063
+"Does kibaco not have the ability to record student attendance?",A063
+"I want to automatically manage student attendance.",A063
+"I want the system to do attendance management",A063
+"Please let me know how to contact students in kibaco.",A064
+"I would like to contact students",A064
+"What kind of method is good to convey cancellation information to students?",A064
+"Are there any ways to contact all students?",A064
+"Can I email the students when I create an announcement?",A064
+"Can email be sent to provisionally registered students?",A064
+"Is there a way to communicate with all students in a student account other than the bulletin board?",A064
+"Are there any ways to communicate with everyone in the class?",A064
+"I would like to send a message to each student but not send it by email.",A065
+"I want to send it to the student's internal e-mail.",A065
+"Can we communicate information only to certain students?",A065
+"Can I send mail only to designated students?",A065
+"I want to send an email to some students, not everyone"., A065
+"I would like to send an email to students who have not registered as well.",A065
+"The message function does not appear on the screen",A066
+"The teacher instructed me to submit the submission via kibaco, but I can not find the message function.",A066
+"I tried to use the "message" function to "students" and tried to send an email, but I can not find the "message" function written in the manual. ",A066
+"I want to use the message function but can not find the function.",A066
+"Where is the message function?",A066
+"Can the content exchanged with students in the message function be viewed by other teachers?",A067
+"When sending a message to multiple students, I want to send it in a state where the students don't know who was sent to me other than myself.",A067
+"When sending a message to multiple students using the message function, will the student's email address be seen by other students?",A067
+"Is the message function sent by BCC?",A067
+"What happens to the e-mail address displayed when sending messages to multiple students?",A067
+"How can I prevent the students from seeing the "notices" of the first semester subjects? ",A068
+"Can students who are not enrolled in the subject can view the notice?",A068
+"I want to be unable to view the notices that have already expired",A068
+"Can I set a deadline to display the notice?",A068
+"Who can see the contents of the announcement?",A068
+"Can I notify students that I wrote on the bulletin board?",A069
+"I want to know what was written on the bulletin board but what should I do?",A069
+"I want to be notified when something is written",A069
+"I want to be notified by email when a student writes something.",A069
+"Does the bulletin board have a notification function?",A069
+"Can a new thread on the kibaco bulletin board be created with a student account?",A070
+"Can students create threads?",A070
+"Who has thread creation authority?",A070
+"We want to make it possible for students to create a thread specific to a certain topic freely on the bulletin board.",A070
+"Is there a facility for everyone to discuss a topic?",A070
+"Can only the users registered in the course read and write to the bulletin board?",A071
+"Can people other than the student registered the class also view the content of the bulletin board?",A071
+"What is the access authority for the bulletin board?",A071
+"Who can read/write the contents of the bulletin board other than the teacher and the student?",A071
+"Can anyone freely write to the bulletin board?",A071
+"E-mail will be sent when the assignment is submitted, but it will be annoying because it will be sent one by one. Can it be turned off in the settings?",A072
+"I want to turn off the notification about the issue.",A072
+"Notice is loud.",A072
+"I do not want to receive notification emails",A072
+"I want to be set not to receive reminders of issues.",A072
+"I would like to register a student who went from university to graduated university as a student in the course, but even if the student logs in, the course is not displayed on the timetable or tab.",A073
+"Must I register a new study number when you enter the doctoral program?",A073
+"Students who are in the master's course cannot see the class.",A073
+"Can I register with my previous study number?",A073
+"Can I register with my undergraduate study number?",A073
+"I would like to change the e-mail address for kibaco registration.",A074
+"I would like to change the class notification address to a personally owned address.",A074
+"I want to contact Gmail.",A074
+"I want to set it to notify Yahoo! Mail.",A074
+"I would like to set the default registered address as an off-campus address",A074
+"I can not see the previous year's course",A075
+"The last year's class tab has disappeared.",A075
+"I want to display the contents of the previous year's class.",A075
+"The contents of last year can not be seen in the new year.",A075
+"I want to display the contents of the same subject in different year.",A075
+"Can't create a class wiki?",A076
+"I want to search for materials",A076
+"I want to share my schedule with my students.",A076
+"I want to hide functions I do not use.",A076
+"I want to edit the items on the left side of the course screen.",A076
+"I would like to distribute files to students, but can I use kibaco outside the university?",A077
+"Can I upload documents from home?",A077
+"Can I access kibaco from outside the university?",A077
+"Can I browse the class materials from other than Tokyo Metropolitan University?",A077
+"Can it be used outside the university?",A077
+"Can the teacher confirm the log of the resubmission of the assignment?",A078
+"Does kibaco have logging capabilities?",A078
+"I want to see the log",A078
+"I want to see the student's behavior history",A078
+"Can a teacher see the log?",A078
+"What is the recommended browser?",A079
+"Which OS should I use?",A079
+"Which browser do I use?",A079
+"Tell me the recommended environment.",A079
+"Which PC should I use?",A079

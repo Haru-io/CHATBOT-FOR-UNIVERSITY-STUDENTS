@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+backend/data/store.json
+ai-service/app/models/
+knowledge-base/vector-store/*
+!knowledge-base/vector-store/.gitkeep

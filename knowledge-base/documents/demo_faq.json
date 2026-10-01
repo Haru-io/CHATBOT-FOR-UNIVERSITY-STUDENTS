@@ -1,0 +1,5 @@
+[
+  {"category":"Demo", "question":"What can this chatbot help with?", "answer":"This prototype can answer questions using its indexed knowledge base. For an institutional deployment, add official university documents such as syllabus, examination rules, attendance policy, fees, library and placement guidelines."},
+  {"category":"Demo", "question":"Where should official university information come from?", "answer":"Institutional answers should come from approved university notices, policies, syllabi, FAQs and other official documents uploaded to the knowledge base."},
+  {"category":"Demo", "question":"What happens when the information is unavailable?", "answer":"The assistant should transparently say that it does not have enough evidence and direct the student to the official university source rather than inventing a fact."}
+]

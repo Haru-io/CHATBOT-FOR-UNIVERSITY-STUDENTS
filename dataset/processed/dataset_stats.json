@@ -1,0 +1,21 @@
+{
+  "questions": 427,
+  "answers": 79,
+  "categories": 11,
+  "intents": {
+    "Aggregation": 25,
+    "Assignments": 68,
+    "Basic Usage": 25,
+    "Contact": 44,
+    "Contents": 15,
+    "Documents": 50,
+    "Login": 11,
+    "Registration": 66,
+    "Students": 15,
+    "Test/Questionnaire": 89,
+    "Uploading": 19
+  },
+  "train": 297,
+  "validation": 65,
+  "test": 65
+}
